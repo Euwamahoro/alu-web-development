@@ -11,9 +11,12 @@ main {
 article {
     flex: 2;
     overflow-y: auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
 }
 
 aside {
     flex: 1;
     overflow-y: auto;
 }
+
