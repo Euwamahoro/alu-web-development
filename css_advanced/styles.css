@@ -66,3 +66,20 @@ body {
     color: #ffffff;
     font-weight: 700px;
 }
+.quote {
+    background-color: #C271FF;
+    width: cover;
+    height: 392px;
+    top: 1093px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+    left: -1px;
+    justify-content: center;
+
+}
+.quote q {
+    text-align: center;
+    
+}
