@@ -5,10 +5,10 @@
     display: flex;
 }
 .menu a{
-color: rgb(101, 57, 57);
+color: #ffffff;
 font-size: 12px;
 font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-font-weight: 700;
+font-weight: 700px;
 text-decoration: none;
 padding: 10px;
 }
@@ -33,4 +33,36 @@ body {
 }
 .welcome h1 {
     color: #ffffff;
+    font-size: 120px;
+    font-weight: 700px;
+    text-align: center;
+}
+.welcome P{
+    gap: 1PX;
+}
+.welcome button{
+    background-color: #C271FF;
+    width: 162px;
+    height: 44px;
+    border-radius: 25px;
+}
+.pros h2{
+    color: #ffffff;
+    margin-top: 30px;
+    text-align: center;
+}
+.pros-list {
+    margin-left: 20px;
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    gap: 140px;
+}
+.blue-text {
+    color: #C271FF;
+}
+.pros-list h3,p {
+    margin-left: 30px;
+    color: #ffffff;
+    font-weight: 700px;
 }
