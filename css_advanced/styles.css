@@ -5,7 +5,7 @@ body{
 header{
     display: flex;
     flex: auto;
-    background-image: url(./img/background.png);
+    background-image: url(/css_advanced/img/background.png);
     flex-direction: row;
     padding: 2% 5% 2% 5%;
     filter:grayscale(100%);
